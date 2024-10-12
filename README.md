@@ -1,7 +1,7 @@
 ## Bank Data Insights and Analysis
 
 #### Project Description
-This SQL project utilizes a comprehensive dataset to analyze a bank's customers, loans, and financial activities. It covers customer distribution, bankruptcy rates, loan sector distribution, agreement purposes, and financial adjustments. Leveraging Power BI, it generates actionable insights for data quality enhancement, risk management, and strategic decision-making, facilitating the bank's growth and stability.
+This SQL project utilizes a comprehensive dataset to analyze a bank's customers, loans, and financial activities. It covers customer distribution, bankruptcy rates, loan sector distributions, agreement purposes, and financial adjustments. Leveraging Power BI, it generates actionable insights for data quality enhancement, risk management, and strategic decision-making, facilitating the bank's growth and stability.
 
 Key features of the project include:
 - Detailed analysis of customer demographics and distributions.
